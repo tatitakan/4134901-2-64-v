@@ -4,7 +4,8 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ###นายททิทากานต์ อาจทวีกุล
-![นายททิทากานต์ อาจทวีกุล](https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/107510105_597699557809834_6940808165244519756_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGOlG9lt9imL4NcsyEflBu0xF1e6fgza4XEXV7p-DNrhX8IhBc_C-sm-Fet8TWScnsSu-L6zRsa5FAgRKj7eVlM&_nc_ohc=XjQNcbCYZx0AX-a4XO5&tn=f5mca7guE7Obc1V-&_nc_ht=scontent.fnak3-1.fna&oh=bc46b49d6c9858a599b0fa101daeaa06&oe=61C30705)
+
+![นายททิทากานต์ อาจทวีกุล]https://camo.githubusercontent.com/b2e51e132099bb5182f73d3978727abc9694439ebd287aa5f6921c2049d0acdd/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f612d2f414f683134476a684269484735727569667070773244456f3075326b6e636d5f334f7a6558694451485670714a673d733336302d702d72772d6e6f
 
 >รหัสนักศึกษา 610112418010
 
